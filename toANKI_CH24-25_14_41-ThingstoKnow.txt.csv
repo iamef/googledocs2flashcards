@@ -1,0 +1,770 @@
+Front,Back,pg and ch,Tags
+"24.1 What Are Corporations, and Why Do We Tax Them?
+* What are corporations? What is their role in the economy? [a][b]
+","
+[a]not all goods and services are produced by the corporate sector in the United States.There is also a large and robust noncorporate sector consisting of self-employed individuals, partnerships, and other organizational forms that do not seek the protections of incorporation.The noncorporate sector accounts for about one-quarter of sales in the United States.
+
+
+[b]Within the corporate sector, most of the production is by firms owned by a large number of shareholders, individuals who have purchased ownership stakes in a company.The major advantage of incorporation is that it offers the guarantee of limited liability, which means that the owners of a firm cannot be held personally responsible for the obligations of the firm. If a corporation fails, the shareholders are not required by law to use their personal assets (such as their homes and jewelry) to pay the debts of the failed company.The most that shareholders can lose is the amount they have invested in the corporation.
+
+",,Ch24
+"24.1 What Are Corporations, and Why Do We Tax Them?
+* What are corporations? What is their role in the economy? [a][b]
+   * Shareholders [c]
+","
+[c]individuals who have purchased ownership stakes in a company.
+
+",,Ch24
+"24.1 What Are Corporations, and Why Do We Tax Them?
+* What are corporations? What is their role in the economy? [a][b]
+   * S vs. C corporations [d]
+","
+[d]Income from an S-corporation is treated as personal income as it is earned and is subject to the individual income tax;income from C-corporations is subject to the corporate income tax as it is earned and may be subject to the individual income tax again as it is distributed to a corporation’s shareholders. Our discussion of corporate taxation will focus on C-corporations, which account for most of the production of the corporate sector.
+
+",,Ch24
+"24.1 What Are Corporations, and Why Do We Tax Them?
+* What are corporations? What is their role in the economy? [a][b]
+   * What is the difference between ownership vs. Control [e]and the agency problem (IMP for what a corporation does!!)
+","
+[e]Generally, in a corporation
+ownership - shareholders
+control - managers, make day to day decisions on how to run the corporation
+
+",,Ch24
+"24.1 What Are Corporations, and Why Do We Tax Them?
+* What are corporations? What is their role in the economy? [a][b]
+   * What is the difference between ownership vs. Control [e]and the agency problem (IMP for what a corporation does!!)
+      * Board of directors [f]
+","
+[f]A set of individuals who meet periodi-
+cally to review decisions made by a firm’s management and report back to the broader set of owners on management’s performance.
+
+",,Ch24
+"24.1 What Are Corporations, and Why Do We Tax Them?
+* What are corporations? What is their role in the economy? [a][b]
+   * What is the difference between ownership vs. Control [e]and the agency problem (IMP for what a corporation does!!)
+      * Stock options [g]and backdating
+","
+[g]executives can buy stocks in their own company to encourage their company to do well
+
+",,Ch24
+"24.1 What Are Corporations, and Why Do We Tax Them?
+* How do firms grow? [h]
+","
+[h]making investments and getting rewards from them
+
+",,Ch24
+"24.1 What Are Corporations, and Why Do We Tax Them?
+* How do firms grow? [h]
+   * What are the 3 ways corporations finance for its investments? [i]
+","
+[i]1) debt financing
+- selling corporate bonds
+- pay interest on them to the lenders / bondholders
+
+
+2) equity financing
+- selling share of ownership
+- How are investors rewarded
+
+
+3) retained earnings
+
+",,Ch24
+"24.1 What Are Corporations, and Why Do We Tax Them?
+* Why should we tax corporate income? [j][k]
+","
+[j]1) pure profits taxation is efficient because corporations are trying to maximize profits and therefore less distortionary than taxing the inputs (labor, capital)
+
+
+2) retained earnings can prevent shareholders from earning $$
+
+
+[k]RE: retained earnings
+
+
+I'm going to show the policy problem by way of an example. Suppose you and I ran an insurance company that generates $1 billion in income every year from the insurance business. If corporate income weren't taxed, we could take the $1 billion in earnings and just invest it in the stock market and other assets — but not return it to our investors. As our company that slowly accumulates billion upon billion in assets, the company becomes increasingly valuable. As long as our investors invest for the long-term, their effective tax rate on capital income can be very low (even zero, if they hold our company until death). So the government would collect almost zero tax revenue on this income.
+
+
+An efficiency problem with this (clearly, the above is inequitable) is that we want capital to be invested new profit-generating activities, instead of being stored in corporations that don't need it but hold onto it because it is tax-favored to hold onto it. By taxing earnings even when not returned to investors, we create an incentive against using corporations as, essentially, a gigantic tax-favored savings account.
+
+
+https://piazza.com/class/keix8p6gyngi2?cid=182
+
+",,Ch24
+"24.1 What Are Corporations, and Why Do We Tax Them?
+* Why should we tax corporate income? [j][k]
+   * Is it efficient? [l]Is it equitable? [m]
+","
+[l]yes if it is economic, rather than accounting profits
+
+
+[m]relatively progressive because those receiving the profits from production are likely to be well-off
+
+
+Gruber estimates that it is 50-50
+
+
+See 24.3 for more details
+
+",,Ch24
+"24.1 What Are Corporations, and Why Do We Tax Them?
+* What are some of the problems with just taxing profits?
+",,,Ch24
+"24.2 The Structure of the Corporate Tax
+* What is the structure of the corporate tax? [n]
+","
+[n]taxes = ([revenues - expenses] * t) - tax credits
+
+",,Ch24
+"24.2 The Structure of the Corporate Tax
+* What are a part of the expenses? [o]
+","
+[o]1) cash flow of doing business
+- compensation paid to employees
+- inputs to production (steel, energy)
+- rent on buildings
+
+
+2) interest payments
+
+
+3) depreciation
+
+",,Ch24
+"24.2 The Structure of the Corporate Tax
+* Why do we care about depreciation? Do you pay for the cost of something immediately? [p] Why does depreciation happen? [q]
+","
+[p]When the company buys equipment or a new building, however, it is investing in a good that will deliver services for many years. Thus, the tax code does not permit the full costs of the machine to be deducted in the period of purchase. Instead, the tax code allows the corporation to deduct from its taxes depreciation allowances, which are tax allowances that are designed to approximate the rate at which the capital investment loses its value.
+
+
+[q]deterioration of value
+
+
+for example
+- b/c it is obsolete and reevaluation as product improves AND (complementary) new software only works on new computers
+- machines break down over time
+
+",,Ch24
+"24.2 The Structure of the Corporate Tax
+* What are the types of depreciation schedules? [r]
+","
+[r]1) straight line depreciation
+2) accelerated
+3) expensing investments
+
+",,Ch24
+"24.2 The Structure of the Corporate Tax
+* What are the types of depreciation schedules? [r]
+   * Expensing investments [s]
+","
+[s]basically the cost of this is borne upfront instead of having depreciation schedules...
+
+",,Ch24
+"24.2 The Structure of the Corporate Tax
+* What is the investment tax credit? [t]
+","
+[t]A credit that allows firms to deduct a percentage of their annual qualified investment expenditures from the taxes they owe.
+
+",,Ch24
+"24.3 The Incidence of the Corporate Tax
+* What are the factors we need to take into account when calculating the incidence of corporate tax? [u]
+","
+[u]consumers who buy products
+
+
+workers who supply labor
+
+
+capital supply
+
+",,Ch24
+"24.3 The Incidence of the Corporate Tax
+* What is the incidence of the corporate tax in the short run and long run? [v]
+","
+[v]A series of recent papers suggests that there is a large effect of corporate taxation on wages. For example, Desai et al. (2010) found that 45 to 75% of the corporate tax burden is shifted to wages, while Serrato and Zidar (2014) found that 35% is shifted to wages, 25% is shifted to land owners (through general equilibrium effects), and 40% is borne by corporate owners.
+
+",,Ch24
+"24.3 The Incidence of the Corporate Tax
+* What is the incidence of the corporate tax in the short run and long run? [v]
+   * in terms of the goods the corporation produces?
+",,,Ch24
+"24.3 The Incidence of the Corporate Tax
+* What is the incidence of the corporate tax in the short run and long run? [v]
+   * In terms of the workers the corporation hires? 
+",,,Ch24
+"24.3 The Incidence of the Corporate Tax
+* What is the incidence of the corporate tax in the short run and long run? [v]
+   * In terms of the capital supplied to the corporation? [w]
+","
+[w]short run: supply of capital is not very elastic (think of things like long)
+
+
+long run: more elastic because investors can invest in non-corporate
+
+",,Ch24
+"24.3 The Incidence of the Corporate Tax
+* Is it progressive? [x]
+","
+[x]incidence
+50% on the capitalists
+50% on the workers
+more progressive than income tax
+less progressive than capital gains tax
+
+",,Ch24
+"24.4 The Consequences of the Corporate Tax for Investment
+* What exactly is capital? [y]
+","
+[y]Capital (economics), a factor of production that is not wanted for itself but for its ability to help in producing other goods
+
+",,Ch24
+"24.4 The Consequences of the Corporate Tax for Investment
+* How do we graph the MC [z]and MPk? (Notability)
+","
+[z]MC = rho+delta
+rho is dividends payment per $ invested
+delta is depreciation
+
+",,Ch24
+"24.4 The Consequences of the Corporate Tax for Investment
+* How do we graph the MC [z]and MPk? (Notability)
+   * What does delta [aa]and rho [ab]represent? 
+","
+[aa]depreciation
+
+
+[ab]dividends to the investor because 
+
+
+- the investor invests in the firm so that it could grow
+- the firm needs to repay the investor
+
+
+Suppose this firm finances its investment by selling equity shares in the firm. In return, it has to make dividend payments each period of rho per dollar borrowed.
+
+",,Ch24
+"24.4 The Consequences of the Corporate Tax for Investment
+* How do we graph the MC [z]and MPk? (Notability)
+   * What happens if we add a tax on just revenue - labor costs? [ac]What about a tax including deductions to depreciation to capital and dividend payments? [ad]Investment tax credit alpha?
+","
+[ac]Shifts the MPk curve down 
+you now have (1-tau) * MPk
+
+
+This is because you are only keeping 1-tau per dollar from your investment due to tax.
+
+
+[ad]it also shifts down
+MC is now (1-tau*z-alpha)*MC
+z takes into account the PDV of depreciation
+alpha is the investment tax credit
+
+
+I DON'T REALLY UNDERSTAND THIS
+
+",,Ch24
+"24.4 The Consequences of the Corporate Tax for Investment
+* What are the efficiency consequences? [ae]
+","
+[ae]The conclusion of recent studies is that the investment decision is fairly sensitive to tax incentives, with an elasticity of investment with respect to the effective tax rate on the order of 20.5: as taxes lower the cost of investment by 10%, there is 5% more investment.This sizeable elasticity suggests that corporate tax policy can be a powerful tool in determining investment and that the corporate tax is very far from a pure profits tax.
+
+",,Ch24
+"24.4 The Consequences of the Corporate Tax for Investment
+* What happens with investment?
+",,,Ch24
+"24.4 The Consequences of the Corporate Tax for Investment
+* What is the effective Corporate Tax rate? [af](Notability) 
+","
+[af]the effective MTR is by definition
+
+
+[MPk(after tax) - MPk(before tax)] / (MPk(after tax))
+
+",,Ch24
+"24.4 The Consequences of the Corporate Tax for Investment
+* What is the effective Corporate Tax rate? [af](Notability) 
+   * What is the difference between statutory tax rate and effective tax rate?
+",,,Ch24
+"24.4 The Consequences of the Corporate Tax for Investment
+* What is the effective Corporate Tax rate? [af](Notability) 
+   * Can the effective corporate tax rate become negative? [ag]
+","
+[ag]YES!!
+
+",,Ch24
+"24.4 The Consequences of the Corporate Tax for Investment
+* How does a tax just on revenue affect investment?
+",,,Ch24
+"24.5 The Consequences of the Corporate Tax for Financing
+* Is interest (to the loans) deductible from taxes? [ah]Are equity dividends deductible? [ai]
+","
+[ah]yes
+
+
+[ai]no, which doesn't really make sense...
+
+",,Ch24
+"24.5 The Consequences of the Corporate Tax for Financing
+* Is interest (to the loans) deductible from taxes? [ah]Are equity dividends deductible? [ai]
+   * Given our tax system, what would be the most favorable to the firm? [aj]Out of the 2 equity options, which is more favorable? [ak]
+","
+[aj]debt, 
+
+
+because what is paid in interest in debt is deducted from tax
+
+
+the profits made as a whole is taxed... and that includes dividends you pay to the stockholder
+
+
+[ak]capital gains is more favorable
+
+
+the effective capital gains tax is smaller
+
+",,Ch24
+"24.5 The Consequences of the Corporate Tax for Financing
+* Why are firms not all debt? [al]
+","
+[al]agency problem
+- the more a firm is debt financed, the more risk you take b/c screw the debt holders—the equity owners earn the firm
+
+
+- this means that interest rate is higher for risky firm (financed mostly by debt and no so much from equity...)
+
+
+- debt also you fail, you are screwed...
+
+",,Ch24
+"24.5 The Consequences of the Corporate Tax for Financing
+* Why do firms not just go with capital gains? [am]
+","
+[am]remember control vs. owners
+
+
+1) agency problem
+the owners probably don't trust the managers (people in control) to have the money
+
+
+2) signaling
+I am doing great and got cash to burn :)
+
+",,Ch24
+"24.5 The Consequences of the Corporate Tax for Financing
+* How should dividends be taxed? What is the theory? [an]
+","
+[an]According to the model that can't explain why dividends happen in the 1st place
+1) decrease in dividends payments
+2) increase in debt financing
+3) could reduce corporate investments since the MC curve is higher
+
+
+According to agency and signaling
+- possibly increased investment?
+
+
+Empirical evidence
+- retained earning matters a lot (possibly the most) in terms of investment financing; less dividends -> more retained earnings
+- little impact on investment
+
+",,Ch24
+"24.5 The Consequences of the Corporate Tax for Financing
+* What is corporate tax integration? [ao]
+","
+[ao]The removal of the corporate tax to tax corporate income at the individual (shareholder) level.
+
+
+basically no corporate tax, only tax the shareholders
+
+",,Ch24
+"24.5 The Consequences of the Corporate Tax for Financing
+* What is corporate tax integration? [ao]
+   * What are the benefits? [ap]Disadvantages? [aq]
+","
+[ap]- remove tax favoritism
+- less DWL from being in the wrong incorporation
+
+
+[aq]- possibly reduce revenue for gov't since we aren't taxed twice...
+- rich people benefit since investors tend to be rich people
+
+",,Ch24
+"24.6 Treatment of International Corporate Income
+* Why should we have lower tax rates for corporations? [ar]
+","
+[ar]our international competitors have lower tax rates
+it is quite distortionary by reducing investment
+
+",,Ch24
+"24.6 Treatment of International Corporate Income
+* What is the territorial system? [as]
+","
+[as]A tax system in which corporations earning income abroad pay tax only to the government of the country in which the income is earned.
+
+",,Ch24
+"24.6 Treatment of International Corporate Income
+* What is the global tax system? [at]Was it actually global? [au][av]
+","
+[at]A tax system in which corporations are taxed by their home countries on their income regardless of where it is earned.
+
+
+the US had a global system until Trump
+
+
+[au]not really because of repatriation
+- it is screwing us because the money is not being invested in America
+
+
+[av]Not really
+- the PDV gain of delaying tax payments on income earned in other nations
+- the ability to shift profits from high- to low-tax nations.
+
+",,Ch24
+"24.6 Treatment of International Corporate Income
+* What is the global tax system? [at]Was it actually global? [au][av]
+   * What is foreign tax credit? [aw]
+","
+[aw]u.S.-based multinational corporations may claim a credit against their u.S. taxes for any tax payments made to foreign governments when funds are repatriated to the parent.
+
+",,Ch24
+"24.6 Treatment of International Corporate Income
+* What is repatriation? [ax]
+","
+[ax]the return of income from a foreign country to a corporation's home country
+
+",,Ch24
+"24.6 Treatment of International Corporate Income
+* What is repatriation? [ax]
+   * How does repatriation lead to an advantage of keeping money abroad? [ay]
+","
+[ay]tax is only collected when it is returned to the U.S.
+- deferring tax is beneficial because of PDV
+- they could also never return the money to the US...
+
+",,Ch24
+"24.6 Treatment of International Corporate Income
+* What are tax havens? [az]
+","
+[az]they are ""shit-hole"" contries that don't have a lot of human capital
+
+
+what is transfer pricing?
+
+",,Ch24
+"24.6 Treatment of International Corporate Income
+* What is transfer pricing? [ba]
+","
+[ba]The amount that one subsidiary of a corporation reimburses another subsidiary of the same corporation for goods transferred between the two.
+
+
+Where the corporation distributes its profits is up to the firm
+
+",,Ch24
+"24.6 Treatment of International Corporate Income
+* What is transfer pricing? [ba]
+   * Is transfer pricing more severe in the territorial tax system or a global tax system? [bb]
+","
+[bb]in a territorial system, if you transfer price you never pay taxes. 
+
+
+in a global system, you would pay if you repatriate. BUT also the U.S. had tax holidays (where you have a favorable tax)...
+
+",,Ch24
+"Are most companies corporations? How are they taxed? 
+",,,Ch24
+"25.1 Why Fundamental Tax Reform?
+* What are some of the key considerations of taxes? [bd]
+","
+[bd]- reducing distortions (tax wedges)
+- raise revenue
+
+",,Ch25
+"25.1 Why Fundamental Tax Reform?
+* What is fundamental tax reform? [be]Why Fundamental Tax Reform? [bf]
+","
+[be]broader base, low taxes
+
+
+[bf]increased tax compliance, simplifying tax code, increasing tax efficiency
+
+",,Ch25
+"25.1 Why Fundamental Tax Reform?
+* What is the difference between tax evasion and tax avoidance? [bg]
+","
+[bg]tax evasion Illegal nonpayment of taxation.
+
+
+tax avoidance: taking legal actions to shift income tp non-taxable forms (health insurance vs. wages)
+
+",,Ch25
+"25.1 Why Fundamental Tax Reform?
+* How do we graph an individual who is considering to engage in tax evasion? What is the MC, what is the MB? [bh]
+","
+[bh]MB is the tax rate
+
+
+MC is upward sloping
+- the likelihood of being caught increases
+- larger marginal fines (possibly)
+
+",,Ch25
+"25.1 Why Fundamental Tax Reform?
+* How do we graph an individual who is considering to engage in tax evasion? What is the MC, what is the MB? [bh]
+   * Are you penalized by the amount of unreported income or the amount of taxes you avoided?
+",,,Ch25
+"25.1 Why Fundamental Tax Reform?
+* Why do we care about tax evasion? [bi][bj]Is it easier for wealthy people to evade taxes? [bk]
+","
+[bi]1) efficiency
+if we have higher taxes to try to collect revenue lost from evasion, it's an efficiency loss
+- cheating not [ositive externality
+- more cheating with higher taxes
+
+
+2) vertical equity
+- it's easier for wealthy people to cheat (non-wage ways of cheating)
+
+
+3) horizontal equity
+- otherwise similar individuals pay diff taxes whether or not they cheat
+
+
+[bj]If we remove 750 billion tax evasion / year
+
+
+On auditing...
+1977: 8% companies are audited, 1% companies are audited
+We audit poor people more than we audit rich people for taxes?
+
+
+[bk]Almost no evasion is done by regular people because wage income is pretty much taxed automatically
+
+
+rich people can hide their taxes through many means...
+
+",,Ch25
+"25.1 Why Fundamental Tax Reform?
+* Why Simple taxes? [bl]
+","
+[bl]- unnecessary costs for society tp take a long time to fill out taxes
+- harder for tax evasion
+
+",,Ch25
+"25.1 Why Fundamental Tax Reform?
+* Why Simple taxes? [bl]
+   * How might there be a trade-off between efficiency and simplicity? Would Haigs-Simons / broader tax base be simpler? [bm]
+","
+[bm]not necessarily
+
+
+including employer-provided health insurance in the tax base might complicate things since the employer has to tell the employee how much its worth
+
+",,Ch25
+"25.1 Why Fundamental Tax Reform?
+* What are the indirect effects of taxation? [bn]Which indirect effect appears to be the least important? [bo]What does this suggest for DWL? [bp]Do the rich or the poor contribute more to the indirect effects? [bq]
+","
+[bn]1) Gross Income effect (Laffer curve)
+- this one seems to be least important...
+
+
+2) Reporting effect (choosing health insurance vs. income to avoid taxes)
+
+
+3) Income exclusion effect (you pay more to charity)
+
+
+the above 3 are legal
+
+
+4) compliance effect (RIP tax evasion...)
+
+
+[bo]most of this response comes from the indirect effects of reporting,
+income exclusion, and compliance and not from the indirect effect of gross income earning.
+
+
+[bp]First, the indirect effects we listed do offset the direct effect of raising tax rates to a significant degree.While estimates vary, a central estimate is that there is roughly a 4% decline in the base of taxable income for each 10% rise in tax rates. This response implies a significant deadweight loss
+
+
+[bq]most—if not all—of this response comes from the rich.This should not be surprising because lower- and middle-class taxpayers have relatively lit- tle scope to take advantage of the income reporting, exclusion, and compliance effects. In terms of the income reporting effect, lower- and middle-income families have relatively little control over the form of their compensation, so they can’t shift toward tax-favored forms of compensation. In terms of the income exclusion effect, given the income required for expenses of daily liv- ing, there is only a limited scope for lower- and middle-income families to shift expenditures toward charity or higher mortgage payments. In terms of the compliance effect, the taxes of middle-income taxpayers are largely col- lected by withholding the taxes from wage income as it is paid by employers, so that relatively little scope for evasion exists.
+
+",,Ch25
+"25.1 Why Fundamental Tax Reform?
+* How would increasing the tax base affect elasticity? [br]
+","
+[br]it should decrease the elasticity since [eople have less places to hide their taxes
+
+",,Ch25
+"25.2 The Politics and Economics of Tax Reform
+* What political pressures make the tax code more complicated? Who benefits from a more complicated tax code? [bs]Why add tax cuts?
+","
+[bs]a concentraded, well-organized group of people
+
+",,Ch25
+"25.2 The Politics and Economics of Tax Reform
+* What are tax shelters? [bt]
+","
+[bt]activities whose sole reason for existence is tax minimization.
+
+",,Ch25
+"25.2 The Politics and Economics of Tax Reform
+* What makes it difficult to make the tax code less complicated?
+",,,Ch25
+"25.2 The Politics and Economics of Tax Reform
+* What makes it difficult to make the tax code less complicated?
+   * What is tax capitalization? [bu]
+","
+[bu]for an asset which is a tax shelter, part of the value of the asset is due to the fact that is a tax shelter
+
+",,Ch25
+"25.2 The Politics and Economics of Tax Reform
+* What makes it difficult to make the tax code less complicated?
+   * What are transitional inequalities? [bv][bw]How does it relate to tax capitalization and horizontal inequities?
+","
+[bv]changes in the treatment of similar individu- als who have made different decisions in the past and are therefore differentially treated by tax reform.
+
+
+[bw]before tax reform
+if you bought a house (that had a high price) because of mortgage tax deduction
+
+
+tax reform: we will take away your mortgage tax deduction
+
+
+after tax reform
+- the house price decreases (if full capitalization, to the PDV of mortgage payments) 
+- RIP person who bought house for a high price, can't do mortgage tax deduction, and sells house for a low price
+
+",,Ch25
+"25.2 The Politics and Economics of Tax Reform
+* What makes it difficult to make the tax code less complicated?
+   * How can grandfathering help with tax reform? [bx]
+","
+[bx]++ Reduce political pressure against passing the tax reform
+
+
+whereby those who made decisions under the old tax rules are allowed to continue to benefit from those rules, while the rules are changed for all future decisions
+
+
+-- RIP Money lost due to grandfathering
+
+",,Ch25
+"25.2 The Politics and Economics of Tax Reform
+* How can tax reforms make taxes more complicated? [by]
+","
+[by]trying to avoid transitional inequities can add to making exceptions b/c RIP grandfathering
+
+",,Ch25
+"25.3 Consumption Taxation
+* What are some arguments for consumption taxes? [bz]Against consumption taxes? [ca]
+","
+[bz]1) Improved capital allocation
+- people may be distorted by differences in tax burdens
+
+
+2) Fairer and more savings
+- horizontal equity if you choose to save vs. consuming
+- eliminates tax on savings and therefore anti-savings bias
+
+
+3) more simple
+
+
+[ca]1) vertical equity
+- the richest people do the most savings
+
+
+2) targeting
+- the government wants to redistribute from high ability to the low ability
+- high ability people tend to save more, so you should tax them
+
+
+3) transition
+- babies probably favor it since the economy is more efficient
+- elderlies HATE it. they've been paying 
+
+
+4) compliance
+- black markets
+
+
+5) cascading
+- RIP intermediate goods
+
+",,Ch25
+"25.3 Consumption Taxation
+* How should we design a consumption tax?
+",,,Ch25
+"25.3 Consumption Taxation
+* How should we design a consumption tax?
+   * What is a value added tax? [cb]How do we mitigate intermediate goods and cascading? How does it avoid cheating? [cc]
+","
+[cb]A consumption tax levied on each stage of a good’s production on the increase in value of
+the good at that stage of production.
+
+
+[cc]- the buyer and seller want to minimize their taxes
+- your gain from cheating is smaller
+
+",,Ch25
+"25.3 Consumption Taxation
+* How should we design a consumption tax?
+   * What is an expenditure tax? [cd]How is this an attempt to make value-added tax more equitable?
+","
+[cd]A consump- tion tax levied on yearly con- sumption rather than on specific sales.
+
+",,Ch25
+"25.3 Consumption Taxation
+* How should we design a consumption tax?
+   * What is a cash-flow tax? [ce]In what ways does the US have a cash flow tax? [cf]What are some of the benefits of a cash flow tax? [cg]Disadvantages? [ch]
+","
+[ce]A tax on the difference between cash income and savings.
+
+
+[cf]retirement saving, savings by owning a home is tax-favorable
+
+
+[cg]it can be a way to calculate how people consume and therefore allow for a (progressive) expenditure tax
+
+
+[ch]a pure cash-flow tax would allow more ways to deduct via savings
+- but rich people save more
+- this would also decrease your revenue
+
+",,Ch25
+"25.4 The Flat Tax
+* What is a flat tax? [ci]
+","
+[ci]a version of flat tax
+
+
+1) pay flat VAT on their sales (minus) wage payments
+
+
+2) labor income tax only (no capital gains tax)
+3) all exemptions (health insurance, charitable contributions, mortgage payments) eliminated, just have a single family deduction
+
+",,Ch25
+"25.4 The Flat Tax
+* What are some arguments for a flat tax? [cj]Against? [ck]
+","
+[cj]1) efficiency
+- larger tax base
+- lower taxes
+- no distortion for savings
+- no distrotions from corporations and their investments
+
+
+2) compliance
+
+
+[ck]1) vertical equity
+- less progressive for the high, high income group...
+
+
+2) transitional inequities
+RIP people who owned homes
+RIP people with health insurance
+
+",,Ch25
